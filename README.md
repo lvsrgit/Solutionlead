@@ -1,3 +1,2 @@
 # Solutionlead
-codetest
-main file to test merging
+merge file main
